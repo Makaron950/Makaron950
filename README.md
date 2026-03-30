@@ -22,7 +22,7 @@ Public volleyball analytics workspace with Streamlit dashboards, VSM tooling, cl
 ## Notes
 
 This profile is currently centered around one public project, with additional tools and experiments being prepared more deliberately before release.
-## Hi there 👋
+
 
 <!--
 **Makaron950/Makaron950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
